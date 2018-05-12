@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5329
     wikipedia: https://en.wikipedia.org/wiki/George_Forrest_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31872#The-Christian-Church-in-These-Islands-before-the-Coming-of-AugustineThree-Lectures-Delivered-_
 gutenberg_issued: '2010-04-03'
 gutenberg_type: Text
 identifiers:
