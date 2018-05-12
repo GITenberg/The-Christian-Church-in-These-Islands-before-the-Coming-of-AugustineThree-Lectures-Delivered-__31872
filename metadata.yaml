@@ -1,0 +1,31 @@
+_repo: The-Christian-Church-in-These-Islands-before-the-Coming-of-AugustineThree-Lectures-Delivered-__31872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, G. F. (George Forrest)
+    alias: Browne, George Forrest
+    birthdate: 1833
+    deathdate: 1930
+    gutenberg_agent_id: '5329'
+    url: http://www.gutenberg.org/2009/agents/5329
+    wikipedia: https://en.wikipedia.org/wiki/George_Forrest_Browne
+description: ''
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31872'
+  lccn: '01005271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Great Britain -- Church history -- To 449'
+title: 'The Christian Church in These Islands before the Coming of Augustine
+
+  Three Lectures Delivered at St. Paul''s in January 1894'
+url: http://www.gutenberg.org/ebooks/31872
